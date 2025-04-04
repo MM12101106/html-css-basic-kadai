@@ -1,0 +1,40 @@
+html {
+  font-size: 20px;
+}
+body{
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+.blue{
+  color: skyblue;
+}
+.pink{
+  color: rgb(255, 192, 203);
+}
+h1 {
+  font-family: "Josefin Sans" , sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px black;
+  border-bottom: solid rgb(115, 115, 114);
+}
+#basic {
+  font-weight: bold;
+}
+
+/* color	文字色を指定する
+font-family	フォントの種類を指定する
+font-size	フォントの大きさを指定する
+font-weight	フォントの太さを指定する
+background	背景を指定する
+text-align	横方向の揃え方を指定する（左・右・中央）
+line-height	行の高さを指定する
+width	要素の幅を指定する
+height	要素の高さを指定する
+padding	要素のパディングを指定する
+margin	要素のマージンを指定する
+border	要素のボーダーの色や太さを指定する
+position	要素の配置方法を指定する
+display	要素の表示形式を指定する
+letter-spacing　文字間をあける
+text-decoration */
